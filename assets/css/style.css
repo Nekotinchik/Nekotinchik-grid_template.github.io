@@ -856,6 +856,10 @@ a {
     height: 50px;
     padding: 15px 17px;
   }
+  .btn-accent {
+    width: 350px;
+    height: 66px;
+  }
   .skills_container {
     display: grid;
     grid-gap: 10px;
@@ -880,6 +884,10 @@ a {
     width: 170px;
     height: 40px;
     padding: 8px 12px;
+  }
+  .btn-accent {
+    width: 350px;
+    height: 60px;
   }
   .header-minioverlay {
     display: block;
@@ -906,6 +914,10 @@ a {
     width: 170px;
     height: 40px;
     padding: 8px 12px;
+  }
+  .btn-accent {
+    width: 532px;
+    height: 60px;
   }
   .skills_container {
     display: grid;
